@@ -15,7 +15,7 @@ hr {
 }
 
 .faded {
-  color: rgba(255, 255, 255, 0.8); 
+  color: rgba(255, 255, 255, 0.8);
 }
 
 header.startup {
@@ -31,7 +31,7 @@ header.startup hr {
 }
 
 header.startup h1 {
-  font-size: 4rem; 
+  font-size: 2rem; 
 }
 
 .btn {
@@ -45,11 +45,11 @@ header.startup h1 {
   padding: 1rem 2rem; 
 }
 
-.btn-primary {
+.bbtn-light {
   background-color: #F05F44;
   border-color: #F05F44; }
 
-.btn-primary:hover {
+.btn-light:hover {
   background-color: #ee4b08;
   border-color: #ee4b08;
   border-width: 5px;
